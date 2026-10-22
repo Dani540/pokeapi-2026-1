@@ -1,4 +1,4 @@
-package com.test.__1;
+package com.test.pokeapitest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
